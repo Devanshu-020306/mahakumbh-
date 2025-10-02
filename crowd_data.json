@@ -1,0 +1,22 @@
+{
+    "Triveni Sangam": {
+        "crowd_level": "High",
+        "message": "⚠️ High crowd density expected. Stampede risk is elevated.",
+        "alternative_route": "Suggesting alternate route via Shastri Bridge. It is 15 mins longer but safer."
+    },
+    "Har Ki Pauri": {
+        "crowd_level": "Medium",
+        "message": "Moderate crowds. Please be aware of your surroundings.",
+        "alternative_route": "Main path is clear. No alternative route needed."
+    },
+    "Paramarth Niketan Ashram": {
+        "crowd_level": "Low",
+        "message": "This area is peaceful and not crowded.",
+        "alternative_route": "Direct route is clear and safe."
+    },
+    "Mela Grounds Stage": {
+        "crowd_level": "Medium",
+        "message": "Crowds expected during evening hours. Keep belongings safe.",
+        "alternative_route": "Main path is clear. No alternative route needed."
+    }
+}

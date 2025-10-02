@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Ganga Aarti at Har Ki Pauri",
+        "type": "Spiritual",
+        "time": "18:00 - 19:00",
+        "location": "Har Ki Pauri",
+        "target_audience": ["Family", "Elderly", "Youth"],
+        "description": "A mesmerizing daily ritual with lamps and chants."
+    },
+    {
+        "id": 2,
+        "name": "Shahi Snan (Royal Bath)",
+        "type": "Spiritual",
+        "time": "04:00 - 10:00",
+        "location": "Triveni Sangam",
+        "target_audience": ["Family", "Youth"],
+        "description": "The most auspicious bathing event led by Akharas. Very crowded."
+    },
+    {
+        "id": 3,
+        "name": "Cultural Music & Dance Festival",
+        "type": "Cultural",
+        "time": "19:00 - 22:00",
+        "location": "Mela Grounds Stage",
+        "target_audience": ["Youth", "Family"],
+        "description": "Vibrant performances by local and national artists."
+    },
+    {
+        "id": 4,
+        "name": "Heritage Walk: Ancient Temples",
+        "type": "Historical",
+        "time": "09:00 - 11:00",
+        "location": "Old City Zone",
+        "target_audience": ["Youth", "HistoryBuff"],
+        "description": "Explore the history and architecture of ancient temples."
+    },
+    {
+        "id": 5,
+        "name": "Quiet Meditation at Paramarth Niketan",
+        "type": "Spiritual",
+        "time": "06:00 - 07:00",
+        "location": "Paramarth Niketan Ashram",
+        "target_audience": ["Elderly", "Family"],
+        "description": "A peaceful session away from the main crowds."
+    }
+]

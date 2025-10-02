@@ -1,0 +1,30 @@
+[
+    {
+        "id": 101,
+        "name": "Shanti Kuteer Ashram",
+        "type": "Budget",
+        "price_level": 1,
+        "suitability": ["Elderly", "Family"]
+    },
+    {
+        "id": 102,
+        "name": "Ganga View Hotel",
+        "type": "Mid-range",
+        "price_level": 2,
+        "suitability": ["Family", "Youth"]
+    },
+    {
+        "id": 103,
+        "name": "Pilgrim's Dormitory",
+        "type": "Budget",
+        "price_level": 1,
+        "suitability": ["Youth"]
+    },
+    {
+        "id": 104,
+        "name": "Radisson Blu Haridwar",
+        "type": "Luxury",
+        "price_level": 3,
+        "suitability": ["Family"]
+    }
+]
